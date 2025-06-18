@@ -1,6 +1,6 @@
 package design_principles;
 
-public class Test {
+public class TestLogger {
 
 	public static void main(String[] args) {
 
